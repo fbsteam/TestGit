@@ -9,6 +9,7 @@
     End Sub
 
     Public Sub ps_abc()
+        Dim i As Integer = 320949038
         Dim _string As String = "abcdefg"
     End Sub
 
@@ -22,6 +23,9 @@
 
     Public Sub ps_send()
         Dim i As Integer = 1 + 1
+        Dim abc As String = "iaojfpoaido"
+
+        Dim defg As String = "afdald"
     End Sub
 
 End Class
