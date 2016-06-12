@@ -16,4 +16,8 @@
         Dim abc1234 = 123049
     End Sub
 
+    Public Sub ps_neu()
+        Dim subi As Object = 21234
+    End Sub
+
 End Class
