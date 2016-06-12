@@ -12,4 +12,8 @@
         Dim _string As String = "abcdefg"
     End Sub
 
+    Public Sub ps_abcd()
+        Dim abc1234 = 123049
+    End Sub
+
 End Class
