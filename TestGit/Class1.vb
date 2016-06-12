@@ -16,4 +16,8 @@
         Dim abc1234 = 123049
     End Sub
 
+    Public Sub ps_send()
+        Dim i As Integer = 1 + 1
+    End Sub
+
 End Class
