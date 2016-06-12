@@ -8,4 +8,8 @@
         Dim _integer As Integer = 2348393
     End Sub
 
+    Public Sub ps_abc()
+        Dim _string As String = "abcdefg"
+    End Sub
+
 End Class
